@@ -35,4 +35,5 @@ describe('Fix the Scope', function() {
     })
   }) 
 })
-functionname 
+ functionName 
+ 
