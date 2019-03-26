@@ -35,4 +35,3 @@ describe('Fix the Scope', function() {
     })
   }) 
 })
-
