@@ -35,5 +35,7 @@ describe('Fix the Scope', function() {
     })
   }) 
 })
- functionName 
- 
+ var funkyFunction = function() {
+  return function() 
+    ;return "FUNKY!"() }
+    
